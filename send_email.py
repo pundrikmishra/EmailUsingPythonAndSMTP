@@ -1,7 +1,7 @@
 import smtplib
 
 import config
-
+#nm,nc,mz
 
 def send_email(subject, msg):
     try:
