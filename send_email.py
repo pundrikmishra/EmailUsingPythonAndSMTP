@@ -1,6 +1,6 @@
 import smtplib
 
-import config
+import config #kljklhgb
 
 def send_email(subject, msg):
     try:
